@@ -1,0 +1,42 @@
+body {
+  background-color: pink;
+  scroll-behavior: auto;
+}
+
+.content-2 {
+  background-color: #aeaeae;
+}
+
+.content-3 {
+  background-color: #fff;
+}
+
+.btn-outline {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.btn:hover {
+  background-color: #04aa6d;
+  color: #fff;
+  border-color: #04aa6d;
+}
+
+.content-4 {
+  background-color: #aeaeae;
+}
+
+.content-5 {
+  background-color: #2b2b2b;
+  color: #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+}
